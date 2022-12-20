@@ -27,7 +27,7 @@ Install on macOS using Homebrew
 brew install dart
 ```
 
-# Executtion
+# Execution
 
 Start the server to allow any incoming requests. The server will run at [localhost:8000](localhost:8000) by default configuration. 
 
